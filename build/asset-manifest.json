@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RashadArbab/static/css/main.4a78a483.chunk.css",
+    "main.js": "/RashadArbab/static/js/main.155199ea.chunk.js",
+    "main.js.map": "/RashadArbab/static/js/main.155199ea.chunk.js.map",
+    "runtime-main.js": "/RashadArbab/static/js/runtime-main.72b1ed27.js",
+    "runtime-main.js.map": "/RashadArbab/static/js/runtime-main.72b1ed27.js.map",
+    "static/js/2.1319c3b9.chunk.js": "/RashadArbab/static/js/2.1319c3b9.chunk.js",
+    "static/js/2.1319c3b9.chunk.js.map": "/RashadArbab/static/js/2.1319c3b9.chunk.js.map",
+    "static/js/3.a75a3beb.chunk.js": "/RashadArbab/static/js/3.a75a3beb.chunk.js",
+    "static/js/3.a75a3beb.chunk.js.map": "/RashadArbab/static/js/3.a75a3beb.chunk.js.map",
+    "index.html": "/RashadArbab/index.html",
+    "static/css/main.4a78a483.chunk.css.map": "/RashadArbab/static/css/main.4a78a483.chunk.css.map",
+    "static/js/2.1319c3b9.chunk.js.LICENSE.txt": "/RashadArbab/static/js/2.1319c3b9.chunk.js.LICENSE.txt",
+    "static/media/PhotoOfMe.40c6251d.jpg": "/RashadArbab/static/media/PhotoOfMe.40c6251d.jpg",
+    "static/media/Rashad_Arbab.a2be917d.png": "/RashadArbab/static/media/Rashad_Arbab.a2be917d.png",
+    "static/media/logo.6ce24c58.svg": "/RashadArbab/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72b1ed27.js",
+    "static/js/2.1319c3b9.chunk.js",
+    "static/css/main.4a78a483.chunk.css",
+    "static/js/main.155199ea.chunk.js"
+  ]
+}
